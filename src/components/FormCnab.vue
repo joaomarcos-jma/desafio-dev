@@ -45,8 +45,8 @@ export default {
     headers: [
       'TIPO_TRANSAÇÃO',
       'CPF',
-      'DONO_LOJA',
       'NOME_LOJA',
+      'DONO_LOJA',
       'CARTAO',
       'DATA_OPERAÇÂO',
       'VALOR',
